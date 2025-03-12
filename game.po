@@ -5451,7 +5451,7 @@ msgstr "'다음보다 늦지 않게' 명령이 연속해서 나타날 수 없습
 #v1.13.11
 msgctxt "order_error_unpowered_train"
 msgid "Underpowered train"
-msgstr "동력이 부족한 열차"
+msgstr "동력이 없는 열차"
 
 #v1.14.24
 msgctxt "order_group_idx"
