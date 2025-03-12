@@ -5098,7 +5098,7 @@ msgstr "역 아이콘"
 #v1.1.37
 msgctxt "mvo_user_station_names"
 msgid "Station names"
-msgstr "열차 이름"
+msgstr "역 이름"
 
 #v1.10.16
 msgctxt "mvo_user_track_depth"
