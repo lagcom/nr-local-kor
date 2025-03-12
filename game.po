@@ -8716,7 +8716,7 @@ msgstr "차량이 너무 많습니다"
 #v1.7.15
 msgctxt "train_recompo_error_unpowered"
 msgid "Unpowered"
-msgstr "무동력차"
+msgstr "동력 없음"
 
 #v1.7.15
 msgctxt "train_recompo_price"
