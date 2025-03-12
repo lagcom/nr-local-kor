@@ -5437,7 +5437,7 @@ msgstr "유효하지 않은 노선"
 #v1.14.24
 msgctxt "order_error_line_invalid_ref_train"
 msgid "Line has empty or invalid reference train\nAssign a train to a shift running this order, or as autorun, to generate line timings"
-msgstr "노선에 비어있거나 유효하지 않은 참조 열차가 있습니다.\n이 명령을 실행하는 운행이나 자동 운행에 열차를 배정해 노선 타이밍을 생성하세요."
+msgstr "노선에 비어있거나 유효하지 않은 참조 열차가 있습니다.\n이 명령을 실행하는 시프트나 자동 운행에 열차를 배정해 노선 타이밍을 생성하세요."
 
 #v1.5.31
 msgctxt "order_error_not_fit"
