@@ -5183,7 +5183,7 @@ msgstr "새 스케쥴"
 #v1.14.24
 msgctxt "new_shift_placeholder"
 msgid "< Create new shift >"
-msgstr "< 새 운행 만들기 >"
+msgstr "< 새 시프트 만들기 >"
 
 #v1.13.11
 msgctxt "new_station_defaults"
