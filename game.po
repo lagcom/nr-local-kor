@@ -8614,109 +8614,110 @@ msgctxt "train_orders_mode_link_line_editor"
 msgid "Open line in line editor"
 msgstr "노선 편집기에서 노선 열기"
 
-#v1.14.24msgctxt "train_orders_mode_link_sched_editor"
- msgid "Open shift in schedule editor"
- msgstr "스케줄 편집기에서 시프트 열기"
- 
- #v1.14.24
- msgctxt "train_orders_mode_manual"
- msgid "Run a schedule shift"
- msgstr "스케줄 변경 실행"
- 
- #v1.5.31
- msgctxt "train_orders_mode_mothballed"
- msgid "Mothballed"
- msgstr "보관됨"
- 
- #v1.14.24
- msgctxt "train_orders_offset_group"
- msgid "Offset:"
- msgstr "오프셋:"
- 
- #v1.14.24
- msgctxt "train_orders_offset_group_n"
- msgid "Group {}"
- msgstr "그룹 {}"
- 
- #v1.5.31
- msgctxt "train_orders_run_short"
- msgid "Run line:"
- msgstr "노선 운행:"
- 
- #v1.14.24
- msgctxt "train_orders_sched_change"
- msgid "Change orders"
- msgstr "순서 변경"
- 
- #v1.14.24
- msgctxt "train_orders_sched_purchase_clear"
- msgid "Clear selection"
- msgstr "선택 초기화"
- 
- #v1.14.24
- msgctxt "train_orders_sched_purchase_new"
- msgid "Create new schedule"
- msgstr "새 스케쥴 만들기"
- 
- #v1.14.24
- msgctxt "train_orders_sched_short"
- msgid "Schedule:"
- msgstr "스케쥴:"
- 
- #v1.14.24
- msgctxt "train_orders_shift_short"
- msgid "Shift:"
- msgstr "운행:"
- 
- #v1.7.15
- msgctxt "train_price"
- msgid "Per train price:"
- msgstr "편성당 가격:"
- 
- #v1.1.31
- msgctxt "train_purchase_no_cash"
- msgid "Not enough money for purchase"
- msgstr "비용이 충분하지 않습니다."
- 
- #v1.1.31
- msgctxt "train_purchase_no_cash_desc"
- msgid "Not enough money to purchase the train(s). Pick a cheaper train, less trains, less cars, or make more money."
- msgstr "열차를 구입할 비용이 부족합니다. 더 저렴한 모델, 더 적은 수의 편성으로 타협하거나 예산을 더 확보하세요."
- 
- #v1.7.15
- msgctxt "train_recompo_apply"
- msgid "Apply changes"
- msgstr "적용"
- 
- #v1.7.15
- msgctxt "train_recompo_disabled"
- msgid "Editing disabled by mod author"
- msgstr "모드 제작자에 의해 편집이 비활성화됨"
- 
- #v1.7.15
- msgctxt "train_recompo_error_cash"
- msgid "Cannot afford new car(s)"
- msgstr "차량을 구매할 자금이 부족합니다."
- 
- #v1.7.15
- msgctxt "train_recompo_error_coupling"
- msgid "Invalid coupling"
- msgstr "올바르지 않은 결합"
- 
- #v1.7.15
- msgctxt "train_recompo_error_empty"
- msgid "Empty train"
- msgstr "빈 열차"
- 
- #v1.7.15
- msgctxt "train_recompo_error_long"
- msgid "Too many cars"
- msgstr "차량이 너무 많습니다"
- 
- #v1.7.15
- msgctxt "train_recompo_error_unpowered"
- msgid "Unpowered"
- msgstr "무동력차"
+#v1.14.24
+msgctxt "train_orders_mode_link_sched_editor"
+msgid "Open shift in schedule editor"
+msgstr "스케줄 편집기에서 시프트 열기"
+
+#v1.14.24
+msgctxt "train_orders_mode_manual"
+msgid "Run a schedule shift"
+msgstr "스케줄 변경 실행"
+
+#v1.5.31
+msgctxt "train_orders_mode_mothballed"
+msgid "Mothballed"
+msgstr "보관됨"
+
+#v1.14.24
+msgctxt "train_orders_offset_group"
+msgid "Offset:"
+msgstr "오프셋:"
+
+#v1.14.24
+msgctxt "train_orders_offset_group_n"
+msgid "Group {}"
+msgstr "그룹 {}"
+
+#v1.5.31
+msgctxt "train_orders_run_short"
+msgid "Run line:"
+msgstr "노선 운행:"
+
+#v1.14.24
+msgctxt "train_orders_sched_change"
+msgid "Change orders"
+msgstr "순서 변경"
+
+#v1.14.24
+msgctxt "train_orders_sched_purchase_clear"
+msgid "Clear selection"
+msgstr "선택 초기화"
+
+#v1.14.24
+msgctxt "train_orders_sched_purchase_new"
+msgid "Create new schedule"
+msgstr "새 스케쥴 만들기"
+
+#v1.14.24
+msgctxt "train_orders_sched_short"
+msgid "Schedule:"
+msgstr "스케쥴:"
+
+#v1.14.24
+msgctxt "train_orders_shift_short"
+msgid "Shift:"
+msgstr "운행:"
+
+#v1.7.15
+msgctxt "train_price"
+msgid "Per train price:"
+msgstr "편성당 가격:"
+
+#v1.1.31
+msgctxt "train_purchase_no_cash"
+msgid "Not enough money for purchase"
+msgstr "비용이 충분하지 않습니다."
+
+#v1.1.31
+msgctxt "train_purchase_no_cash_desc"
+msgid "Not enough money to purchase the train(s). Pick a cheaper train, less trains, less cars, or make more money."
+msgstr "열차를 구입할 비용이 부족합니다. 더 저렴한 모델, 더 적은 수의 편성으로 타협하거나 예산을 더 확보하세요."
+
+#v1.7.15
+msgctxt "train_recompo_apply"
+msgid "Apply changes"
+msgstr "적용"
+
+#v1.7.15
+msgctxt "train_recompo_disabled"
+msgid "Editing disabled by mod author"
+msgstr "모드 제작자에 의해 편집이 비활성화됨"
+
+#v1.7.15
+msgctxt "train_recompo_error_cash"
+msgid "Cannot afford new car(s)"
+msgstr "차량을 구매할 자금이 부족합니다."
+
+#v1.7.15
+msgctxt "train_recompo_error_coupling"
+msgid "Invalid coupling"
+msgstr "올바르지 않은 결합"
+
+#v1.7.15
+msgctxt "train_recompo_error_empty"
+msgid "Empty train"
+msgstr "빈 열차"
+
+#v1.7.15
+msgctxt "train_recompo_error_long"
+msgid "Too many cars"
+msgstr "차량이 너무 많습니다"
+
+#v1.7.15
+msgctxt "train_recompo_error_unpowered"
+msgid "Unpowered"
+msgstr "동력 없음"
 
 #v1.7.15
 msgctxt "train_recompo_price"
